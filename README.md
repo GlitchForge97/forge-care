@@ -1,4 +1,4 @@
-# Bangladesh Advanced Medical Center - Hospital Platform
+# ForgeCare Medical Center - Hospital Platform
 
 A modern, responsive hospital management and patient booking platform built with vanilla JavaScript and Tailwind CSS.
 
@@ -90,3 +90,4 @@ const defaultConfig = {
 ## Author
 
 Built by GlitchForge - A student developer focused on creating professional healthcare solutions.
+
